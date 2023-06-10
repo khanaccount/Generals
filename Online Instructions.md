@@ -11,7 +11,7 @@
 
 **3.** Запустите ***Contra_Launcher.exe*** и примите исправления, нажав «Да» при появлении запроса ![1](https://media.discordapp.net/attachments/410501978784006144/829700542443552795/unknown.png).
 
-**3.** Установите RadminVPN: https://www.radmin-vpn.com/ru/ затем нажмите Скачать бесплатно и установите
+**3.** Установите RadminVPN: (https://download.radmin-vpn.com/download/files/Radmin_VPN_1.3.4570.5.exe) затем нажмите Скачать бесплатно и установите
 
 **4.** В Radmin найдите и присоединитесь к игровой сети:
 **Command & Conquer: Generals - Zero Hour - Contra 009**
