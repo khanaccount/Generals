@@ -5,7 +5,7 @@
 ### Способ установки Contra №1 (используя официальный Contra Launcher)
 **1.** Установите Command and Conquer Generals https://freetp.org/getfile-1152 После установки запускаете Zero Hour !!! Если она запустилась то к некст шагу.
 
-**2.** Установите [Contra 009 Финал + Патч 1 + Патч 2 + Патч 3]([https://www.moddb.com/mods/contra/downloads/contra-009-final-all-patches](https://www.moddb.com/downloads/mirror/206421/123/27fbde2fad435377f2986009ab1a1500/?referer=https%3A%2F%2Fgithub.com%2FContraMod%2FLauncher%2Fblob%2Fmaster%2FOnline%2520Instructions.md)) поверх чистой, рабочей, немодифицированной Zero Hour v1.04.
+**2.** Установите [Contra 009 Финал + Патч 1 + Патч 2 + Патч 3]([https://www.moddb.com/mods/contra/downloads/contra-009-final-all-patches](https://www.moddb.com/downloads/mirror/206421/123/27fbde2fad435377f2986009ab1a1500/?referer=https%3A%2F%2Fgithub.com%2FContraMod%2FLauncher%2Fblob%2Fmaster%2FOnline%2520Instructions.md) поверх чистой, рабочей, немодифицированной Zero Hour v1.04.
 
 [![](https://cdn.discordapp.com/attachments/410500983198580740/975781531228455042/youtubeicon.png)](https://www.youtube.com/watch?v=UbPLFd_D_tM)[(Видео инструкции)](https://www.youtube.com/watch?v=wQoktTvNQGs)
 
