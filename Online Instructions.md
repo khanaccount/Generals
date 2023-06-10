@@ -1,38 +1,3 @@
-![0](https://cdn.discordapp.com/attachments/410500983198580740/948933165177765938/flag-gb.jpg) [ENGLISH](#ENGLISH-) | ![0](https://cdn.discordapp.com/attachments/410500983198580740/948934837664878592/flag-ru.jpg) [РУССКИЙ](#РУССКИЙ-)
-### ENGLISH ![0](https://cdn.discordapp.com/attachments/410500983198580740/948933165177765938/flag-gb.jpg)
-# Contra 009 Final Patch 3 Setup and Online Play Instructions
-
-### Contra installation method №1 (using official Contra Launcher)
-**1.** Install [Contra 009 Final + Patch 1 + Patch 2 + Patch 3](https://www.moddb.com/mods/contra/downloads/contra-009-final-all-patches) on top of clean, working, unmodded Zero Hour v1.04.
-
-[![](https://cdn.discordapp.com/attachments/410500983198580740/975781531228455042/youtubeicon.png)](https://www.youtube.com/watch?v=UbPLFd_D_tM)[(Video instructions)](https://www.youtube.com/watch?v=UbPLFd_D_tM)
-
-**2.** Run ***Contra_Launcher.exe*** and accept the hotfixes by clicking "Yes" when prompted ![1](https://media.discordapp.net/attachments/410501978784006144/829700450064400394/unknown.png).
-
-### Contra installation method №2 (using GenLauncher)
-**1.** Join [GenLauncher Discord](https://discord.com/invite/fFGpudz5hV)
-
-**2.** [Download the latest version](https://discord.com/channels/886293575128739860/886296846882996274/926436133775233075) and place GenLauncher.exe in your Zero Hour game folder. Run it, add Contra mod, and wait for it to get downloaded.
-
-### Installing the VPN software
-
-**3.** Install RadminVPN. Go to https://www.radmin-vpn.com/ then click Free Download and Install
-
-**4.** In Radmin, search and join the gaming network:
-**Command & Conquer: Generals - Zero Hour - Contra 009**
-
-![2](https://media.discordapp.net/attachments/410501978784006144/795776427739971604/unknown.png)
-
-**5.** Switch **LAN IP** to **26.X.X.X** inside the game's options.
-
-![3](https://media.discordapp.net/attachments/410501978784006144/795781301134819348/unknown.png)
-- Gentool zip is needed to preserve custom resolution:
-https://www.gentool.net/download (extract latest d3d8.dll to ZH folder from zip)
-- Please also disable 3D shadows from custom graphics options for improved performance
-
-**6.** Play using **VPN / LAN lobby** (not GameSpy / CnC Online!)
-
-![4](https://media.discordapp.net/attachments/410501978784006144/795777286874857542/unknown.png)
 
 ### РУССКИЙ ![0](https://cdn.discordapp.com/attachments/410500983198580740/948934837664878592/flag-ru.jpg)
 # Contra 009 Final Patch 3 Установка и Инструкции по сетевой игре
